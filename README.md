@@ -1,3 +1,9 @@
+# Ejecución del proyecto
+
+Para correr el proyecto ejecutar
+    npm install
+    npm start
+
 # Desafio Postulantes
 
 Con el fin de seleccionar a nuestros 2 developers, tenemos el siguente desafio.
