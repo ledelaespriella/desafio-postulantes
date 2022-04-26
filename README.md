@@ -1,3 +1,12 @@
+# Ejecución del codigo
+
+Ejecute los siguientes comandos
+
+    npm install
+    npm start
+
+
+
 # Desafio Postulantes
 
 Con el fin de seleccionar a nuestros 2 developers, tenemos el siguente desafio.
