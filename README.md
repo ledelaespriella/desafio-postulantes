@@ -1,8 +1,9 @@
 # Ejecución del proyecto
 
 Para correr el proyecto ejecutar
+
     npm install
-    npm start
+    npm run start
 
 # Desafio Postulantes
 
