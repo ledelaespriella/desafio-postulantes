@@ -1,0 +1,26 @@
+{
+  "name": "desafio_scraper",
+  "version": "1.0.0",
+  "description": "Con el fin de validar los conocimientos necesarios para trabajar en Fapro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledelaespriella/desafio-postulantes.git"
+  },
+  "keywords": [
+    "nodeJs"
+  ],
+  "author": "ledelaespriella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ledelaespriella/desafio-postulantes/issues"
+  },
+  "homepage": "https://github.com/ledelaespriella/desafio-postulantes#readme",
+  "dependencies": {
+    "puppeteer": "^13.6.0"
+  }
+}

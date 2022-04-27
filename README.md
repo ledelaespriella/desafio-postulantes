@@ -1,11 +1,8 @@
-# Ejecución del codigo
+# Ejecución del proyecto
 
-Ejecute los siguientes comandos
-
+Para correr el proyecto ejecutar
     npm install
     npm start
-
-
 
 # Desafio Postulantes
 
